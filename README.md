@@ -12,7 +12,7 @@ To Assemble the Computer System
 
 ### Step 1
 
-![]
+![](1.1png)
 
 Unpack the monitor and computer case from the box. Remove any
 plastic covering or protective tape. Place the monitor and computer case
@@ -22,7 +22,7 @@ computer from overheating.
 
 ### Step 2
 
-![]
+![](1.2png)
 
 Locate the monitor cable. There are several types of monitor cables, so
 the one for your computer may not look like the one in the image
@@ -31,7 +31,7 @@ instruction manual for your computer. (If you have an all-inone computer that's 
 
 ### Step 3
 
-![]
+![](1.3png)
 
 Connect one end of the cable to the monitor port on the back of
 the computer case and the other end to the monitor. Many computer
@@ -42,7 +42,7 @@ try our Connecting Cables interactive.
 
 ### Step 4
 
-![]
+![](1.4png)
 
 Unpack the keyboard and determine whether it uses a USB (rectangular)
 connector or a PS/2 (round) connector. If it uses a USB connector, plug it
@@ -64,7 +64,7 @@ computers have built-in Bluetooth, so an adapter may not be necessary.
 
 ### Step 6
 
-![]
+![](1.6png)
 
 If you have external speakers or headphones, you can connect them to
 your computer's audio port (either on the front or back of the computer
@@ -77,7 +77,7 @@ computers have speakers or microphones built into the monitor.
 
 ### Step 7
 
-![]
+![](1.7png)
 
 Locate the two power supply cables that came with your computer. Plug
 the first power supply cable into the back of the computer case and then
@@ -86,9 +86,9 @@ the monitor to the surge protector.You can also use an uninterruptable
 power supply (UPS), which acts as a surge protector and provides
 temporary power if there is a power outage.
 
-###Step 8
+### Step 8
 
-![]
+![](1.8png)
 
 Finally, plug the surge protector into a wall outlet. You may also need to
 turn on the surge protector if it has a power switch.If you don't have a
@@ -98,7 +98,7 @@ damage your computer.
 
 ### Step 9
 
-![]
+![](1.9png)
 
 If you have a printer, scanner, webcam, or other peripherals, you can
 connect them at this point. Many peripherals are plug and play, which
